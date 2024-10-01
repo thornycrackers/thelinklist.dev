@@ -1,0 +1,10 @@
+baseURL: 'https://www.thelinklist.dev/'
+languageCode: 'en-us'
+title: 'The Link List'
+theme: ["hugo-PaperMod"]
+params:
+  env: production
+  homeInfoParams:
+    Title: Welcome to The Link List 👋
+
+googleAnalytics: G-57SGRMYBNE

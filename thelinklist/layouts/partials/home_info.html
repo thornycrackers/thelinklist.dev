@@ -1,0 +1,35 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        <p>
+          The Link List is a monthly(ish?) newsletter containing half a dozen or so Developer-Centric links I find interesting.
+          From must-read articles on cutting-edge tools to productivity and leadership insights, you'll get an artisanally curated selection of my favorite discoveries across tech, creativity, and everything in between.
+        </p>
+        <br>
+        <p><b>What to expect:</b></p>
+        <ul>
+            <li>✨ <b>Handpicked Links</b> – Only the good stuff, filtered by an actual human (<a href="https://www.codyhiar.com">me</a>).</li>
+            <li>✨ <b>New Tools & Resources</b> – Things that might make you say, "Wait, where has this been my whole life?"</li>
+            <li>✨ <b>Interesting Reads</b> – Articles that won’t put you to sleep</li>
+        </ul>
+        <br>
+        <p>
+            Join the community of curious minds, creators, and lifelong learners. Sign up below and never miss a great link again. 🔗👇
+        </p>
+        <br/>
+        <div style="text-align: center;">
+          <a href="https://thelinklist.beehiiv.com/subscribe" style="background-color: #229954 ; color: white; padding: 10px 20px; border: none; border-radius: 5px;">
+            Click Here To Sign-up
+          </a>
+        </div>
+        <br/>
+        <p>Don't like emails? You can read the previous content on this site.</p>
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}
