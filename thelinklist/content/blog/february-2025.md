@@ -4,12 +4,6 @@ date = 2025-02-01T00:00:00-06:00
 draft = false
 +++
 
-# [thelinklist.dev](thelinklist.dev)
-
-## February, 2025
-
----
-
 Welcome to the inaugural edition of thelinklist.dev's first email.
 I’ve rounded up some thought-provoking, inspiring, and entertaining links that I hope you’ll enjoy. Let’s dive in!
 
@@ -63,9 +57,3 @@ This helps lead to more robust and maintainable systems.
 In contrast, easy refers to familiarity or proximity to one's current knowledge, which is subjective and can sometimes introduce complexity.
 Hickey argues that prioritizing ease can lead to complex systems that are difficult to understand and modify over time.
 He also teaches you the word "complect" which is fun to drop into sentences.
-
----
-
-[thelinklist.dev](thelinklist.dev) is a project by Cody Hiar.
-
-[Website](https://www.codyhiar.com/) | [LinkedIn](https://www.linkedin.com/in/cody-hiar-56263422/) | [Github](https://github.com/thornycrackers)
