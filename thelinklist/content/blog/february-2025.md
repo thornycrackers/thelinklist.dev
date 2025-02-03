@@ -54,7 +54,7 @@ You may not be a hiring manager, but you will surely be applying to jobs early i
 Engineers who are later in their careers can also benefit from some of the items on this list.
 Everyone should be able to demonstrate transferable skills, flexibility, and willingness to learn.
 
-**6. [Video: Simple Made Easy - Rich Hickey]**
+**6. [Video: Simple Made Easy - Rich Hickey](https://www.youtube.com/watch?v=SxdOUGdseq4)**
 
 Rich Hickey is the creator of the Clojure programming language.
 He's been around the block and seen some things.
