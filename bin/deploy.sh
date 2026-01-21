@@ -21,4 +21,4 @@ rm -rf thelinklist/public
 cd thelinklist && hugo --gc --minify && cd -
 
 # Rsync to the webhost
-rsync --verbose --progress --human-readable --delete --recursive thelinklist/public/ webhost:/var/www/thelinklist.dev
+rsync --verbose --progress --human-readable --delete --recursive thelinklist/public/ congo:/var/www/thelinklist.dev
