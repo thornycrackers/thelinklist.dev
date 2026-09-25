@@ -8,4 +8,4 @@ start: ## Start the server
 	cd thelinklist && hugo server --disableFastRender --buildDrafts --bind=0.0.0.0
 
 deploy: ## Deploy the application
-	bin/deploy.sh
+	nix develop --command bin/deploy.sh
